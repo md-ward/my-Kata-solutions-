@@ -12,3 +12,4 @@ def uncensor(infected, discovered):
     return newText
 
 
+print(uncensor('s*das*das*das*d','1114'))
